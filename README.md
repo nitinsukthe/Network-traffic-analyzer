@@ -1,6 +1,5 @@
 # Network-traffic-analyzer
-Network Traffic Analyzer
- 
+
 # Introduction
 
 In the era of digital transformation, networks form the backbone of organizational operations, enabling seamless communication and data exchange. Monitoring and analyzing network traffic is pivotal for maintaining network health, optimizing performance, and safeguarding against security threats. The Network Traffic Analyzer project is designed to provide comprehensive insights into network behavior by capturing, processing, and interpreting data packets traversing the network.

@@ -1,9 +1,12 @@
 # Network-traffic-analyzer
 Network Traffic Analyzer
-#Introduction
+ 
+# Introduction
+
 In the era of digital transformation, networks form the backbone of organizational operations, enabling seamless communication and data exchange. Monitoring and analyzing network traffic is pivotal for maintaining network health, optimizing performance, and safeguarding against security threats. The Network Traffic Analyzer project is designed to provide comprehensive insights into network behavior by capturing, processing, and interpreting data packets traversing the network.
 
-#Project Objectives
+# Project Objectives
+
 Comprehensive Traffic Analysis: Capture and dissect network packets to understand traffic patterns.
 Performance Monitoring: Assess bandwidth usage and identify bottlenecks.
 Security Surveillance: Detect and alert on suspicious activities such as port scanning.
@@ -39,7 +42,8 @@ User Interface: Command-Line Interface (CLI)
 Logging: Python's logging module
 Progress Monitoring: TQDM
 Data Presentation: Tabulate
-#System Architecture
+
+# System Architecture
 
 Figure 1: High-level Architecture of the Network Traffic Analyzer
 
@@ -130,7 +134,7 @@ Adapt the analyzer to work with cloud-based network environments and virtualized
 #Conclusion
 The Network Traffic Analyzer project serves as a powerful tool for dissecting and understanding network behavior. By leveraging robust technologies and comprehensive analysis techniques, it provides valuable insights into network performance and security. As networks continue to grow in complexity, such tools become indispensable for ensuring operational efficiency, security, and reliability. Future enhancements promise to further augment its capabilities, making it an essential asset for network administrators and security professionals alike.
 
-#Visual Aids for Presentation:
+# Visual Aids for Presentation:
 
 System Architecture Diagram: Illustrates the high-level components and their interactions.
 Flowcharts: Depicts the functional workflow from data acquisition to reporting.
